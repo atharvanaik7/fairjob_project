@@ -54,8 +54,7 @@ Expected runtime: ~10–20 minutes on a modern CPU.
 
 ```
 .
-├── code/
-│   └── fairness_analysis.py   # Full pipeline: data, model, metrics, interventions
+├── fairness_analysis.py   # Full pipeline: data, model, metrics, interventions
 ├── requirements.txt
 └── README.md
 ```
