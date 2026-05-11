@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ## Quickstart
 
 ```bash
-python code/fairness_analysis.py
+python fairness_analysis.py
 ```
 
 This will:
